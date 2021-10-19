@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hammad5121472
-- 👀 I’m interested in Web Designing
-- 🌱 I’m currently learning Responsive Web Design (HTML&CSS)
+- 👀 I’m Web Developer
+- 🌱 I Have Knowledge of HTML,CSS and BOOTSTRAP 4
 - 📫 How to reach me:https://www.linkedin.com/in/hammad-khalid-53b4161b4
 
 
